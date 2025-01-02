@@ -1,3 +1,6 @@
+"""
+实现一个简单的 LRU（Least Recently Used）缓存
+"""
 class Node:
     def __init__(self, key=None, value=None):
         self.key = key
