@@ -1,4 +1,6 @@
-
+"""
+找出列表中的重复元素
+"""
 def find_duplicates(nums):
     # 使用集合来跟踪已经看到的元素
     seen = set()
