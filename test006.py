@@ -1,4 +1,6 @@
-
+"""
+统计字符串中每个字符出现的次数
+"""
 def count_characters(s):
     # 创建一个空字典用来存储字符的出现次数
     char_count = {}
