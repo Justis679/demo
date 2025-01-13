@@ -1,3 +1,6 @@
+"""
+反转列表中的元素顺序
+"""
 def reverse_list(lst):
     return lst[::-1]
 
