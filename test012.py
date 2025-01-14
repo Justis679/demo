@@ -1,3 +1,6 @@
+"""
+生成一个指定长度的随机密码，包含字母、数字和特殊字符
+"""
 import random
 import string
 
