@@ -1,3 +1,6 @@
+"""
+一个简单的倒计时计时器
+"""
 import time
 
 def countdown_timer(seconds):
