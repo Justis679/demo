@@ -1,3 +1,6 @@
+"""
+文件读取和写入
+"""
 # 读取文件内容
 with open('example.txt', 'r') as file:
     content = file.read()
