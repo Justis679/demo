@@ -1,5 +1,6 @@
 """
 尾递归
+尾递归返回递归函数本身,不会导致栈溢出
 """
 def fact(n):
     return fact_iter(n, 1)
